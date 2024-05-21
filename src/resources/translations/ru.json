@@ -1,0 +1,59 @@
+{
+    "modal_trigger_title": "Настройки файлов cookie",
+
+    "consent_modal_title": "Мы используем файлы cookie!",
+    "consent_modal_description": "Этот веб-сайт использует необходимые файлы cookie для обеспечения его правильной работы и файлы cookie для отслеживания, чтобы понять, как вы взаимодействуете с ним. Последние будут установлены только после согласия.",
+    "consent_modal_primary_btn": "Согласен",
+    "consent_modal_secondary_btn_settings": "Настроить",
+    "consent_modal_secondary_btn_accept_necessary": "Принять необходимые",
+
+    "settings_modal_title": "Настройки файлов cookie",
+    "settings_modal_save_settings_btn": "Сохранить настройки",
+    "settings_modal_accept_all_btn": "Принять все",
+    "settings_modal_reject_all_btn": "Принять необходимые",
+    "settings_modal_close_btn_label": "Закрыть",
+
+    "settings_modal_before_consent_title": "Использование файлов cookie",
+    "settings_modal_before_consent_description": "Мы используем файлы cookie для обеспечения базовой функциональности веб-сайта и улучшения вашего онлайн-опыта. Вы можете выбирать для каждой категории включение/выключение в любое время.",
+
+    "settings_modal_after_consent_title": "Дополнительная информация",
+    "settings_modal_after_consent_description": "Если у вас есть вопросы относительно моей политики в отношении файлов cookie и ваших выборов, пожалуйста, свяжитесь с нами.",
+
+    "functionality_storage_title": "Функциональные файлы cookie",
+    "functionality_storage_description": "Эти файлы cookie необходимы для правильной работы нашего веб-сайта. Без этих файлов cookie веб-сайт может работать неправильно.",
+
+    "personalization_storage_title": "Файлы cookie для персонализации",
+    "personalization_storage_description": "Файлы cookie для персонализации могут использовать файлы cookie третьих сторон, чтобы помочь им персонализировать контент и отслеживать пользователей на различных веб-сайтах и устройствах.",
+
+    "security_storage_title": "Файлы cookie безопасности",
+    "security_storage_description": "Файлы cookie безопасности позволяют хранить информацию, связанную с безопасностью, такую как аутентификация, защита от мошенничества и другие средства защиты пользователя.",
+
+    "ad_storage_title": "Рекламные файлы cookie",
+    "ad_storage_description": "Рекламные файлы cookie используются нами или нашими партнерами, чтобы показывать вам релевантный контент или рекламу как на нашем сайте, так и на сайтах третьих сторон. Это позволяет нам создавать профили на основе ваших интересов, так называемые псевдонимные профили. На основе этой информации обычно невозможно напрямую идентифицировать вас как личность, так как используется только псевдонимная информация. Если вы не дадите согласие, вы не будете получать контент и рекламу, соответствующие вашим интересам.",
+
+    "ad_user_data_title": "Данные пользователя для рекламы",
+    "ad_user_data_description": "",
+
+    "ad_personalization_title": "Персонализация рекламы",
+    "ad_personalization_description": "",
+
+    "analytics_storage_title": "Аналитические файлы cookie",
+    "analytics_storage_description": "Аналитические файлы cookie позволяют нам измерять производительность нашего веб-сайта и наших рекламных кампаний. Мы используем их для определения количества посещений и источников посещений нашего веб-сайта. Мы обрабатываем данные, полученные через эти файлы cookie, в совокупности, не используя идентификаторы, указывающие на конкретных пользователей нашего веб-сайта. Если вы отключите использование аналитических файлов cookie в отношении вашего посещения, мы теряем возможность анализировать производительность и оптимизировать наши меры.",
+
+    "cookie_table_col_name": "Название",
+    "cookie_table_col_purpose": "Описание",
+    "cookie_table_col_processing_time": "Истечение срока",
+    "cookie_table_col_provider": "Поставщик",
+    "cookie_table_col_type": "Тип",
+    "cookie_table_col_link": "Ссылка",
+    "cookie_table_col_link_find_out_more": "Ссылка",
+    "cookie_table_col_category": "Категория",
+
+    "processing_time_session": "Сессия",
+    "processing_time_persistent": "Постоянный",
+
+    "cookie_type_1st_party": "1-я сторона",
+    "cookie_type_3rd_party": "3-я сторона",
+
+    "find_out_more": "узнать больше"
+}

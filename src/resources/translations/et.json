@@ -1,0 +1,59 @@
+{
+    "modal_trigger_title": "Küpsiste seaded",
+
+    "consent_modal_title": "Kasutame küpsiseid!",
+    "consent_modal_description": "Kasutame vajalikke küpsiseid, mis võimaldavad meie veebisaidil korralikult töötada. Lisaks on meie lehel kasutusel ka valikulised küpsised, et pakkuda teile meie veebisaidi sirvimisel kohandatud kogemust ja kuvada teie asukohale vastavat teavet. Samuti jagame teavet meie saidi kasutamise kohta oma sotsiaalmeedia-, reklaami- ja analüüsipartneritega. Klõpsates \"Nõustun\", nõustute meie küpsiste kasutamisega. Kui klõpsate valikul \"Kohanda\", saate küpsised eraldi valida ja nende kohta lisateavet vaadata.",
+    "consent_modal_primary_btn": "Nõustun",
+    "consent_modal_secondary_btn_settings": "Kohanda",
+    "consent_modal_secondary_btn_accept_necessary": "Nõustun vajalikega",
+
+    "settings_modal_title": "Küpsiste seaded",
+    "settings_modal_save_settings_btn": "Salvesta seaded",
+    "settings_modal_accept_all_btn": "Nõustun kõigiga",
+    "settings_modal_reject_all_btn": "Nõustun vajalikega",
+    "settings_modal_close_btn_label": "Sulge",
+
+    "settings_modal_before_consent_title": "Küpsiste kasutamine",
+    "settings_modal_before_consent_description": "Kasutame küpsiseid, et tagada veebisaidi põhifunktsioonid ja täiustada teie veebikogemust. Saate iga kategooria jaoks valida, kas küpsised lubada või välja lülitada millal iganes soovite.",
+
+    "settings_modal_after_consent_title": "Lisateave",
+    "settings_modal_after_consent_description": "Kui teil on küsimusi privaatsustingimuste või küpsiste kohta, siis võtke meiega ühendust.",
+
+    "functionality_storage_title": "Funktsionaalsed küpsised",
+    "functionality_storage_description": "Need küpsised on vajalikud meie veebisaidi nõuetekohaseks toimimiseks. Ilma nende küpsisteta ei pruugi veebisait korralikult töötada.",
+
+    "personalization_storage_title": "Isikupärastamise küpsised",
+    "personalization_storage_description": "Isikupärastamisküpsised võivad kasutada kolmanda osapoole küpsiseid, et aidata neil sisu isikupärastada ja kasutajaid erinevatel veebisaitidel ja seadmetes jälgida.",
+
+    "security_storage_title": "Turvaküpsised",
+    "security_storage_description": "Turvaküpsised võimaldavad salvestada turvalisusega seotud teavet, nagu autentimine, kaitse pettuste eest ja muud vahendid kasutaja kaitsmiseks.",
+
+    "ad_storage_title": "Reklaamiküpsised",
+    "ad_storage_description": "Meie või meie partnerid kasutame reklaamiküpsiseid selleks, et näidata teile asjakohast sisu või reklaame nii meie saidil kui ka kolmandate osapoolte saitidel. See võimaldab meil luua teie huvide põhjal profiile, nn pseudonüümitud profiile. Selle teabe alusel ei ole üldjuhul võimalik teid isikuna otseselt tuvastada, kuna kasutatakse ainult pseudonüümseid andmeid, kui te oma nõusolekut ei väljenda, ei saa te teie huvidele kohandatud sisu ega reklaame.",
+
+    "ad_user_data_title": "Reklaami kasutaja andmed",
+    "ad_user_data_description": "Määrab nõusoleku kasutajaandmete saatmiseks kolmandatele osapooltele (nt Google) veebireklaamimise eesmärgil.",
+
+    "ad_personalization_title": "Reklaami isikupärastamine",
+    "ad_personalization_description": "Määrab isikupärastatud reklaamimise nõusoleku.",
+
+    "analytics_storage_title": "Analüütikaküpsised",
+    "analytics_storage_description": "Analüütikaküpsised võimaldavad meil mõõta meie veebisaidi ja reklaamikampaaniate toimivust. Kasutame neid meie veebisaidi külastuste arvu ja külastuste allikate määramiseks. Nende küpsiste kaudu saadud andmeid töötleme koondandmetena, ilma kasutades identifikaatoreid, mis osutavad meie veebisaidi konkreetsetele kasutajatele. Kui keelate analüütiliste küpsiste kasutamise seoses oma külastusega, kaotame võime analüüsida toimivust ja optimeerida oma meetmeid.",
+
+    "cookie_table_col_name": "Nimi",
+    "cookie_table_col_purpose": "Kirjeldus",
+    "cookie_table_col_processing_time": "Aegumine",
+    "cookie_table_col_provider": "Pakkuja",
+    "cookie_table_col_type": "Tüüp",
+    "cookie_table_col_link": "Link",
+    "cookie_table_col_link_find_out_more": "Link",
+    "cookie_table_col_category": "Kategooria",
+
+    "processing_time_session": "Sessioon",
+    "processing_time_persistent": "Püsiv",
+
+    "cookie_type_1st_party": "1. osapoole",
+    "cookie_type_3rd_party": "3. osapoole",
+
+    "find_out_more": "loe rohkem"
+}
