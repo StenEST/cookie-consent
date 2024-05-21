@@ -1,7 +1,7 @@
 {
-  "name": "68publishers-cookie-consent",
+  "name": "stenm-cookie-consent",
   "version": "0.5.3",
-  "description": "Cookie consent wrapper based on orestbida/cookieconsent with GTM integration.",
+  "description": "Cookie consent wrapper based on orestbida/cookieconsent with GTM integration. Forked from 68publishers/cookie-consent",
   "homepage": "http://www.68publishers.io/",
   "main": "index.js",
   "repository": {
