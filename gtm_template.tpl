@@ -1710,7 +1710,7 @@ ___TEMPLATE_PARAMETERS___
         "name": "show_floating_btn",
         "checkboxText": "Show floating button?",
         "simpleValueType": true,
-        "defaultValue": ""
+        "defaultValue": false
       },
       {
         "type": "SELECT",
@@ -2089,8 +2089,6 @@ const JSON = require('JSON');
 const Object = require('Object');
 const makeInteger = require('makeInteger');
 
-log('data =', data);
-
 // create gtag
 const gtag = createArgumentsQueue('gtag', 'dataLayer');
 
@@ -2199,7 +2197,6 @@ for (let key in data.composite_consent_event_triggers || []) {
 
   // check duplicated trigger name
   if (eventTriggers.hasOwnProperty(compositeEventTrigger.name)) {
-    log('Error: Composite event trigger "' + compositeEventTrigger.name + '" defined but some trigger with same name is also defined as a storage trigger.');
     data.gtmOnFailure();
 
     continue;
@@ -2273,7 +2270,6 @@ for (let eventTriggerKey in eventTriggers) {
     gtag('event', eventTrigger.name, {});
     Object.delete(eventTriggers, eventTriggerKey);
 
-    log('EventTrigger "' + eventTrigger.name + '" invoked with the default consent.');
   }
 }
 
@@ -2997,5 +2993,5 @@ setup: ''
 ___NOTES___
 
 Created on 17. 12. 2021 0:22:20
-Updated on 22.05.2024
+
 
