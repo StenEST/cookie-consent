@@ -10,6 +10,7 @@ const ConsentManager = require('./ConsentManager');
 const Dictionary = require('./Translation/Dictionary');
 const StylesheetLoader = require('./Ui/StylesheetLoader');
 const ModalTriggerFactory = require('./Ui/ModalTriggerFactory');
+const FloatingConfigureButton = require('./Ui/FloatingConfigureButton');
 const EventBus = require('./EventBus/EventBus');
 const Events = require('./EventBus/Events');
 const EventTrigger = require('./Storage/EventTrigger');
@@ -89,7 +90,7 @@ class CookieConsentWrapper {
             return null;
         }
 
-        try{
+        try {
             cookieValue = JSON.parse(cookieValue)
         } catch (e) {
             try {
@@ -183,7 +184,7 @@ class CookieConsentWrapper {
         if (Events.ON_INIT === event && this._initialized && null !== this._cookieConsent) {
             callback.call(scope);
 
-            return function () {};
+            return function () { };
         }
 
         return this._eventBus.subscribe(event, callback, scope);
@@ -231,6 +232,13 @@ class CookieConsentWrapper {
                 const modalTriggerFactory = new ModalTriggerFactory(document, self._dictionary);
 
                 modalTriggerElements = modalTriggerFactory.create(self._config.settingsModalOptions.modal_trigger_selector, self._config.pluginOptions.current_lang || document.documentElement.lang);
+            }
+
+            // Load floating button
+            if (self._config.uiOptions.show_floating_button) {
+                const floatingConfigureButton = new FloatingConfigureButton(document);
+
+                floatingConfigureButton.create(self._config.uiOptions.floating_button_position);
             }
 
             CmpApiIntegration(self, self._config.cmpApiOptions);

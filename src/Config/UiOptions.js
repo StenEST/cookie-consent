@@ -9,6 +9,8 @@ class UiOptions extends require('./AbstractOptions') {
         this.include_default_stylesheets = true;
         this.external_stylesheets = [];
         this.internal_stylesheets = [];
+        this.show_floating_button = true;
+        this.floating_button_position = 'left';
     }
 
     get defaultStylesheets() {

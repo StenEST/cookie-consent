@@ -1,8 +1,8 @@
 {
     "modal_trigger_title": "Küpsiste seaded",
 
-    "consent_modal_title": "Kasutame küpsiseid!",
-    "consent_modal_description": "Kasutame vajalikke küpsiseid, mis võimaldavad meie veebisaidil korralikult töötada. Lisaks on meie lehel kasutusel ka valikulised küpsised, et pakkuda teile meie veebisaidi sirvimisel kohandatud kogemust ja kuvada teie asukohale vastavat teavet. Samuti jagame teavet meie saidi kasutamise kohta oma sotsiaalmeedia-, reklaami- ja analüüsipartneritega. Klõpsates \"Nõustun\", nõustute meie küpsiste kasutamisega. Kui klõpsate valikul \"Kohanda\", saate küpsised eraldi valida ja nende kohta lisateavet vaadata.",
+    "consent_modal_title": "Meie veebisait kasutab küpsiseid!",
+    "consent_modal_description": "Kasutame küpsiseid teie sirvimiskogemuse parandamiseks, isikupärastatud reklaamide ja sisu esitamiseks ning liikluse analüüsimiseks. Saate valida, kas nõustute kõikide küpsiste kasutamisega või ainult teatud tüüpi küpsiste kasutamisega.",
     "consent_modal_primary_btn": "Nõustun",
     "consent_modal_secondary_btn_settings": "Kohanda",
     "consent_modal_secondary_btn_accept_necessary": "Nõustun vajalikega",
@@ -29,7 +29,7 @@
     "security_storage_description": "Turvaküpsised võimaldavad salvestada turvalisusega seotud teavet, nagu autentimine, kaitse pettuste eest ja muud vahendid kasutaja kaitsmiseks.",
 
     "ad_storage_title": "Reklaamiküpsised",
-    "ad_storage_description": "Meie või meie partnerid kasutame reklaamiküpsiseid selleks, et näidata teile asjakohast sisu või reklaame nii meie saidil kui ka kolmandate osapoolte saitidel. See võimaldab meil luua teie huvide põhjal profiile, nn pseudonüümitud profiile. Selle teabe alusel ei ole üldjuhul võimalik teid isikuna otseselt tuvastada, kuna kasutatakse ainult pseudonüümseid andmeid, kui te oma nõusolekut ei väljenda, ei saa te teie huvidele kohandatud sisu ega reklaame.",
+    "ad_storage_description": "Meie või meie partnerid kasutame reklaamiküpsiseid selleks, et näidata teile asjakohast sisu või reklaame nii meie saidil kui ka kolmandate osapoolte saitidel. See võimaldab meil luua teie huvide põhjal profiile, nn pseudonüümitud profiile. Selle teabe alusel ei ole üldjuhul võimalik teid isikuna otseselt tuvastada, kuna kasutatakse ainult pseudonüümseid andmeid, kui te oma nõusolekut ei anna, ei saa te teie huvidele kohandatud sisu ega reklaame.",
 
     "ad_user_data_title": "Reklaami kasutaja andmed",
     "ad_user_data_description": "Määrab nõusoleku kasutajaandmete saatmiseks kolmandatele osapooltele (nt Google) veebireklaamimise eesmärgil.",
